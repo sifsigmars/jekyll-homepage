@@ -17,13 +17,14 @@ title: Sif Sigmarsdóttir
 email: sif.sigmarsdottir@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Sif Sigmarsdóttir is a journalist and author from Iceland who is based in London.
-  Her book I am Traitor is published by Hodder Children's books. Sif is represented by Sophie Hicks agency.
+  Her book I am Traitor is published by Hodder Children's books. Sif is represented by Sophie Hicks Agency.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: http://www.sifsigmarsdottir.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sifsigmars
 github_username:  jekyll
 facebook_username: sif.sigmarsdottir.official
 instagram_username: sif.sigmarsdottir
+google_analytics: UA-45290363-3
 
 # Build settings
 markdown: kramdown

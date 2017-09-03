@@ -5,10 +5,92 @@
   text-align: center;
 }
 
-.author-image{
+.author-image.img-responsive{
   margin-bottom: 20px;
+  display:inline;
 }
 
 .header-image{
   height:50px;
+}
+
+.book{
+  max-height:270px;
+  margin-right:40px;
+  float:left;
+}
+.shadow{
+  box-shadow: 2px 2px 2px #888888;
+}
+.pull-left{
+  float:left;
+}
+.relative-10{
+  position:relative;
+  top:15px;
+  left:28px;
+}
+
+.margin-top-40{
+  margin-top:40px;
+}
+.margin-bottom-40{
+  margin-bottom:40px !important;
+}
+
+a:hover{
+  cursor:pointer;
+}
+
+.post-list{
+  a{color:black;}
+  h2{margin-bottom:0px;}
+  h3 .post-link{font-size:1em;color:black;}
+  h3{font-size:1em; margin-bottom:15px;}
+}
+
+.secondary-book-section{
+  margin-top:60px;
+}
+
+.literary-prize{
+  float:right;
+  max-height:100px;
+}
+
+.previous-books{
+  text-align:center;
+  img{ max-height:180px;margin-bottom:20px;}
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+a:visited.btn{
+  color:white;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
 }
