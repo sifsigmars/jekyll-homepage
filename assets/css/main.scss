@@ -1,5 +1,13 @@
 ---
 ---
+$spacing-unit:     30px !default;
+$on-palm:          600px !default;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
 
 .centered {
   text-align: center;
@@ -93,4 +101,30 @@ a:visited.btn{
     background-image: none;
     border: 1px solid transparent;
     border-radius: 4px;
+}
+
+.about-sif{
+  float:left;
+}
+.about-col-1,.about-col-2{
+}
+.about-col-1{
+  float:left;
+  width: -webkit-calc(60% - (#{$spacing-unit} / 2));
+  width:         calc(60% - (#{$spacing-unit} / 2));
+  padding-right: #{$spacing-unit};
+}
+.about-col-2{
+  float:left;
+  width: -webkit-calc(40% - (#{$spacing-unit} / 2));
+  width:         calc(40% - (#{$spacing-unit} / 2));
+  text-align:center;
+}
+
+@include media-query($on-palm) {
+  .about-col-1, .about-col-2 {
+    float: none;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+  }
 }
