@@ -14,11 +14,11 @@ exclude_header: true
   ![Sif Sigmarsdottir](/assets/img/sif-sigmarsdottir.png){:class="img-responsive  author-image"}
 
 {:.centered}
-  [Books](books) -
   [About](about) -
-  [Contact me](contact) -
+  [Books](books) -
   [Blog](http://www.medium.com/sifs-journal) -
-  [Press and reviews](press)
+  [Press and reviews](press) -
+  [Contact me](contact)
 
 {:.centered}
-  [Request a book reading](/contact){:class='btn btn-large btn-primary margin-top-40 margin-bottom-40'}
+  [Sign up for my newsletter](/newsletter){:class='btn btn-large btn-primary margin-top-40 margin-bottom-40'}
