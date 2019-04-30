@@ -4,7 +4,7 @@ title:  "Niceland interview: What they do and how they do it"
 date:   2017-09-01 15:13:48 +0100
 excerpt: Includes advice on becoming an author I would give to a younger me ("Don't do it! Run for your life!") and why I wouldn't have listened.
 category: interview
-link: http://www.thisisniceland.com/truno-sif-sigmarsdottir/
+link: http://www.niceland.com/truno-sif-sigmarsdottir/
 ---
 ![Niceland Screenshot](/assets/img/posts/niceland-screenshot.jpg){:style="width:100%;"}
 
