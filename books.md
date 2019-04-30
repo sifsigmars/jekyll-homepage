@@ -6,26 +6,30 @@ permalink: /books/
 
 
 {::options parse_block_html="true" /}
-<div class="pull-left">
-![I am Traitor](/assets/img/i-am-traitor.jpg){:class="img-responsive book shadow"}
+<div class="pull-left main-book">
+![Sharp Edge of a Snowflake](/assets/img/sharp-edge-of-a-snowflake.jpg){:class="img-responsive book shadow"}
 <br/><br/>
 
 {:.relative-10}
-<span class="fa fa-amazon" style="position:relative; top:2px;"></span> [Buy it on Amazon](https://www.amazon.co.uk/dp/B01MA31HWG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+<span class="fa fa-amazon" style="position:relative; top:2px;"></span> [Buy it on Amazon](https://www.amazon.co.uk/Sharp-Edge-Snowflake-Sif-Sigmarsdottir/dp/1444935305)<br/>
 </div>
 
-I Am Traitor
+<i>"The Queen of YA crime"</i> - Eoin Colfer
+
+
+The Sharp Edge of a Snowflake
+-----
+
+The snow is falling thick and fast. Snow in Iceland is dangerous.
 ============
 
-London has been targeted by extra-terrestrial life; large pipes fall from the sky, sucking teenagers up into a world that is entirely unimaginable.
+Hannah has been banished from her home in London to a place of eternal punishment. Not Hell, but close: Iceland. There, she faces a new life working as a journalist for her father's newspaper - a man she barely knows.
 
-Amy Sullivan surrenders in a quest to save the teenage population. But nobody can prepare her for what's on the other side of the pipes; a grim and gruelling dystopian world run a specialised government. In order to save the human race, she must literally fight the other species.
+Imogen has the perfect life as a social media influencer. But behind the filters lies a dark secret. She thought she'd buried it: But the Beast is back - a ghost from her past who's threatening to ruin her future.
 
-And someone has given her something they say will save the planet, if she is willing to believe them.
+When a man is found murdered at the edge of the road in snowy Iceland the girls' lives collide. Imogen had the motive. Can Hannah find out the truth, and discover the reality of the girl beneath the filters?
 
-At the end of the world, who can you really trust?
-
-Check out the <a href="/press">press and reviews</a> section to see reviews about I am Traitor, which is <a href="https://www.amazon.co.uk/dp/B01MA31HWG/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1">available on Amazon</a>.
+The Sharp Edge of a Snowflake is available for pre-purchase on Amazon is <a href="https://www.amazon.co.uk/Sharp-Edge-Snowflake-Sif-Sigmarsdottir/dp/1444935305">available on Amazon</a>.
 
 <div style="clear:both; margin-top:80px;"></div>
 
@@ -35,6 +39,11 @@ Check out the <a href="/press">press and reviews</a> section to see reviews abou
 <h3 style="margin-bottom:20px;">Previous books</h3>
 
 <div class="previous-books">
+  <div class="pull-left">
+  <a href="/i-am-traitor">![I am Traitor](/assets/img/i-am-traitor.jpg){:class="img-responsive book shadow"}</a>
+  </div>
+
+  {::options parse_block_html="true" /}
   <div class="pull-left">
   ![Freyju Saga - Djásn](/assets/img/djasn.jpg){:class="img-responsive book shadow"}
   </div>
