@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Sif Sigmarsdóttir
-email: sif.sigmarsdottir@gmail.com
+email: sif.sigmars@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Sif Sigmarsdóttir is a journalist and author from Iceland who is based in London.
-  Her book I am Traitor is published by Hodder Children's books. Sif is represented by Sophie Hicks Agency.
+  Her book The Sharp Edge of a Snowflake is published by Hodder Children's books. Sif is represented by Sophie Hicks Agency.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: http://www.sifsigmarsdottir.com # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sifsigmars

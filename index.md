@@ -16,7 +16,6 @@ exclude_header: true
 {:.centered}
   [About](about) -
   [Books](books) -
-  [Blog](http://www.medium.com/sifs-journal) -
   [Press and reviews](press) -
   [Contact me](contact)
 
